@@ -1,7 +1,7 @@
 # Try Now
 resumego.live
 
-# Resuming - Let's Build your Resume
+# ResumeGo - Let's Build your Resume
 This repository contains the code for the Resuming Resume Builder, an interactive resume builder that allows users to create and download their resumes online.
 
 # Features
