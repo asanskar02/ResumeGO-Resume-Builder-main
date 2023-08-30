@@ -40,7 +40,7 @@ const DefaultLayout = (props) => {
   return (
     <div className='layout '>
         <div className='header'>
-            <h1 onClick={()=>navigate('/home')} style={{cursor:'pointer'}}>RESUMING</h1>
+            <h1 onClick={()=>navigate('/home')} style={{cursor:'pointer'}}>RESUMEGO</h1>
                 <Dropdown
             menu={{
               items,
